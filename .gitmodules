@@ -2,6 +2,3 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "bestridge"]
-	path = bestridge
-	url = https://github.com/cran/bestridge
